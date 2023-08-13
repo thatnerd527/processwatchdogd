@@ -1,0 +1,5 @@
+{
+			"commandname": "./monitored.exe",
+			"workingdir": "d:/visualstudio/processwatchdogd",
+			"arguments": []
+		}
