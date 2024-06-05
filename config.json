@@ -1,5 +1,6 @@
 {
-			"commandname": "./monitored.exe",
-			"workingdir": "d:/visualstudio/processwatchdogd",
-			"arguments": []
+			"commandname": "npm",
+			"workingdir": "../Gartoun2x",
+			"arguments": ["run","start"],
+			"logdir": "./logs"
 		}
